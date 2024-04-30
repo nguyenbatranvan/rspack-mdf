@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "lerna run --parallel dev",
+    "preview": "lerna run --parallel preview",
+    "build": "lerna run --parallel build",
+    "kill": "lerna run kill-port"
+  },
+  "devDependencies": {
+    "@module-federation/runtime": "^0.0.11",
+    "kill-port": "^2.0.1",
+    "lerna": "^8.0.2"
+  },
+  "dependencies": {
+    "react-error-boundary": "^4.0.12"
+  }
+}

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5d26f66-15cb-4993-aa19-bff1ec1eddd4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/@rspack/core/dist/container/ModuleFederationPlugin.d.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xhbhmj1u" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2b3wJiBTp1tEn7KBH8EK1oPzJBf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vannguyen/Documents/reacjs/react-rspack-module-federation&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/vannguyen/Documents/reacjs/react-rspack-module-federation/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;dev.nx.console.project_details_files&quot;: [
+      &quot;/Users/vannguyen/Documents/reacjs/react-rspack-module-federation/packages/app-header/package.json&quot;,
+      &quot;/Users/vannguyen/Documents/reacjs/react-rspack-module-federation/packages/host/package.json&quot;,
+      &quot;/Users/vannguyen/Documents/reacjs/react-rspack-module-federation/packages/remote/package.json&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/host/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5d26f66-15cb-4993-aa19-bff1ec1eddd4" name="Changes" comment="" />
+      <created>1690179551614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690179551614</updated>
+      <workItem from="1705457000768" duration="1320000" />
+      <workItem from="1705459007944" duration="1476000" />
+      <workItem from="1705559597649" duration="1476000" />
+      <workItem from="1705890581476" duration="2817000" />
+      <workItem from="1705893866605" duration="1143000" />
+      <workItem from="1705895321300" duration="3854000" />
+      <workItem from="1706060832954" duration="160000" />
+      <workItem from="1706061003927" duration="1196000" />
+      <workItem from="1706062419780" duration="1497000" />
+      <workItem from="1706085170136" duration="2334000" />
+      <workItem from="1706157308843" duration="1063000" />
+      <workItem from="1706242607693" duration="488000" />
+      <workItem from="1707098610659" duration="1062000" />
+      <workItem from="1707100180257" duration="739000" />
+      <workItem from="1707103932838" duration="813000" />
+      <workItem from="1707106541664" duration="1538000" />
+      <workItem from="1707113187569" duration="6503000" />
+      <workItem from="1707120025792" duration="4904000" />
+      <workItem from="1707185798788" duration="2416000" />
+      <workItem from="1707189850721" duration="727000" />
+      <workItem from="1707205783204" duration="1335000" />
+      <workItem from="1707960335467" duration="1052000" />
+      <workItem from="1708483702927" duration="191000" />
+      <workItem from="1708586347398" duration="640000" />
+      <workItem from="1710908142080" duration="400000" />
+      <workItem from="1711685498375" duration="1652000" />
+      <workItem from="1714277707916" duration="46000" />
+      <workItem from="1714397542687" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
